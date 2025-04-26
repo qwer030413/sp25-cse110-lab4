@@ -53,5 +53,11 @@
 
 16. for loop:(in js file)
 
-17. 
+17. the function will return the newArr, which will be [2,4,6] since our ddSomething function multiplies each element in the array by 2 and stores it in the newArr.
+
+18. setInterval
+
+19. The function prints out 1, 4, 3, and 2 in order. We print 1 first from console.log(1), then we execute line 3, which prints 2 after 1 second. while we wait for 2, we print out 4 and 3 first. finally, we print 3 at the end.
+
+
 

@@ -1,0 +1,2 @@
+1. the bug was that we were passing in num1 and num2 as string and not numbers(integers)
+2. I would fix it by changing/checking the datatype for num1 and num2 so that we return the correct sum of the 2 numbers
